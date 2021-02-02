@@ -22,6 +22,18 @@ div.page1 h3 {
 div.page1 p {
 	margin-top:15%;
 }
+div.fb img {
+	max-width:25px;
+	height:auto;
+	position:absolute;
+	bottom:30%;
+	right:-30px;
+}
+div.fb {
+	position: absolute;
+	bottom:10%;
+	right:10%;
+}
 div.bg1 {
 	background-color: rgb(230,230,230);
 	position:absolute;
