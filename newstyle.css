@@ -338,7 +338,7 @@ div.Edu a:hover + div.edu .b {
 	52.5% {left:60%;}
 	75% {left:76%;}
 	77.5% {left:76%;}
- 	100% {left: 96%;}
+ 	100% {left: 93%;}
 }
 div.high {
 	opacity:0;
@@ -438,7 +438,7 @@ img.point {
 	z-index:4;
 	position:absolute;
 	top:50.8%;
-	right:0;
+	right:25px;
 	width:30px;
 	height:auto;
 }
